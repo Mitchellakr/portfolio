@@ -52,10 +52,6 @@ const About = () => {
 							video games. It's my perfect recipe for a good time.
 						</p>
 					</div>
-{/* 
-                    <a href="/EG RESUME.pdf" download="ezomon glory resume" className='bg-[#DE3F3B]   text-white px-[64px] py-[12px] md:px-[32px] text-[16px] md:text-[20px] md:leading-[32px] leading-[24px]  inline-block rounded-full mt-[24px] neuemd '>
-							Resume
-						</a> */}
 				</div>
 			</div>
 		</div>
