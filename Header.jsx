@@ -21,13 +21,6 @@ const Header = () => {
 						WORK
 					</a>
 					<a
-						href='/EG RESUME.pdf'
-						download='ezomon glory resume'
-						className='text-[16px] text-[#202020] cursor-pointer '
-					>
-						RESUME
-					</a>
-					<a
 						href='#about'
 						className='text-[16px] text-[#202020] cursor-pointer '
 					>
